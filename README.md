@@ -2,7 +2,7 @@
 In the study of mechanisms, a four-bar linkage, also called a four-bar, is the simplest closed-chain movable linkage. It consists of four bodies, called bars or links, connected in a loop by four joints. Generally, the joints are configured so the links move in parallel planes, and the assembly is called a planar four-bar linkage. Spherical and spatial four-bar linkages also exist and are used in practice [1].
 
 
-![Linkage_four_bar_fixed svg](https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png)
+![Linkage_four_bar_fixed svg](https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png| width=100)
 
 
 
@@ -12,19 +12,19 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  
  Coordinates of the 2nd link are demonstrated in the following illustrations.
  
- ![xt](https://user-images.githubusercontent.com/81474289/183307235-ad2fa2f2-f01a-42ae-8f82-1f0ee8bee8c5.png)
- ![yt](https://user-images.githubusercontent.com/81474289/183307261-6a9c9d3e-57c3-4d2e-92ae-9acaca46c6ea.png)
+ ![xt](https://user-images.githubusercontent.com/81474289/183307235-ad2fa2f2-f01a-42ae-8f82-1f0ee8bee8c5.png| width=100)
+ ![yt](https://user-images.githubusercontent.com/81474289/183307261-6a9c9d3e-57c3-4d2e-92ae-9acaca46c6ea.png| width=100)
  
 
  Furthermore, variation of links lengths are provided in Fig. 3.
  
- ![LE](https://user-images.githubusercontent.com/81474289/183307681-0a15d275-725c-4e08-ac07-aafb30e4220f.png)
+ ![LE](https://user-images.githubusercontent.com/81474289/183307681-0a15d275-725c-4e08-ac07-aafb30e4220f.png| width=100)
 
  
  Finally, constraint Error is depicted in the figure below . 
  
  
- ![e2rr](https://user-images.githubusercontent.com/81474289/183299772-fe2ad730-3b33-43ee-bc48-72524c4a291d.jpg)
+ ![e2rr](https://user-images.githubusercontent.com/81474289/183299772-fe2ad730-3b33-43ee-bc48-72524c4a291d.jpg| width=100)
  
 
 
