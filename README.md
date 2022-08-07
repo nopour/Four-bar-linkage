@@ -2,9 +2,9 @@
 In the study of mechanisms, a four-bar linkage, also called a four-bar, is the simplest closed-chain movable linkage. It consists of four bodies, called bars or links, connected in a loop by four joints. Generally, the joints are configured so the links move in parallel planes, and the assembly is called a planar four-bar linkage. Spherical and spatial four-bar linkages also exist and are used in practice [1].
 
 
-![Linkage_four_bar_fixed svg](https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png | width=100%)
+![Linkage_four_bar_fixed svg](https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png | width=100)
 
-
+<img src=https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png | width=100)
 
  This CODES are organized to represent the analysis of the mentioned mechanism, wherein the flexible behavior of its components is considered. The Equation of Motion is extended, and results are obtained with Greenwood and Augmented methods.
  
