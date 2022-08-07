@@ -17,7 +17,8 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  Furthermore, Constraint Error is depicted in the figure below . 
  
  
-![err](https://user-images.githubusercontent.com/81474289/183299679-b513916c-ca06-4c24-a47d-40e54ba0bdc3.jpg)
+ ![e2rr](https://user-images.githubusercontent.com/81474289/183299772-fe2ad730-3b33-43ee-bc48-72524c4a291d.jpg)
+
 
 
 
