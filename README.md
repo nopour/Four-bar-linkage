@@ -10,7 +10,12 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  
  # Results
  
- Coordinate of the 2nd link is demonstrated in the following illustration.
+ Coordinates of the 2nd link are demonstrated in the following illustrations.
+ 
+ ![xt](https://user-images.githubusercontent.com/81474289/183307235-ad2fa2f2-f01a-42ae-8f82-1f0ee8bee8c5.png)
+ 
+
+ 
  
  
  
@@ -18,6 +23,9 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  
  
  ![e2rr](https://user-images.githubusercontent.com/81474289/183299772-fe2ad730-3b33-43ee-bc48-72524c4a291d.jpg)
+ 
+![yt](https://user-images.githubusercontent.com/81474289/183307261-6a9c9d3e-57c3-4d2e-92ae-9acaca46c6ea.png)
+
 
 
 
