@@ -1,0 +1,2 @@
+# Four-bar-linkage
+In the study of mechanisms, a four-bar linkage, also called a four-bar, is the simplest closed-chain movable linkage. It consists of four bodies, called bars or links, connected in a loop by four joints. Generally, the joints are configured so the links move in parallel planes, and the assembly is called a planar four-bar linkage. Spherical and spatial four-bar linkages also exist and are used in practice [1].
