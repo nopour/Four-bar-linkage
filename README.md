@@ -4,7 +4,7 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
 
 
 
-<img src="https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png" width=100% height=70%>
+<img src="https://user-images.githubusercontent.com/81474289/183299072-0061f822-c416-4f82-9748-f25f91fbb9c4.png" width=70% height=50%>
 
  This CODES are organized to represent the analysis of the mentioned mechanism, wherein the flexible behavior of its components is considered. The Equation of Motion is extended, and results are obtained with Greenwood and Augmented methods.
  
@@ -12,14 +12,14 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  
  Coordinates of the 2nd link are demonstrated in the following illustrations.
  
-<div style="text-align:center">
+<p align="center">
  
  <img src="https://user-images.githubusercontent.com/81474289/183307235-ad2fa2f2-f01a-42ae-8f82-1f0ee8bee8c5.png" width=70% height=70%>
  
  
  
  <img src="https://user-images.githubusercontent.com/81474289/183307261-6a9c9d3e-57c3-4d2e-92ae-9acaca46c6ea.png" width=70% height=70%>
- </div>
+</p>
 
  Furthermore, variation of links lengths are provided in Fig. 3.
  <div style="text-align:center">
