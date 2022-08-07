@@ -16,11 +16,12 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
  ![yt](https://user-images.githubusercontent.com/81474289/183307261-6a9c9d3e-57c3-4d2e-92ae-9acaca46c6ea.png)
  
 
+ Furthermore, variation of links lengths are provided in Fig. 3.
  
+ ![LE](https://user-images.githubusercontent.com/81474289/183307681-0a15d275-725c-4e08-ac07-aafb30e4220f.png)
+
  
- 
- 
- Furthermore, Constraint Error is depicted in the figure below . 
+ Finally, constraint Error is depicted in the figure below . 
  
  
  ![e2rr](https://user-images.githubusercontent.com/81474289/183299772-fe2ad730-3b33-43ee-bc48-72524c4a291d.jpg)
