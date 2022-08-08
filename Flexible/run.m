@@ -111,22 +111,7 @@ GM.dq12=zGM(:,24);
 % %constraint
 AE_GM = AEfunc(l1,l2,l3,l4,GM.q1,GM.q2,GM.q3,GM.q5,GM.q8,GM.q11);
 
-% % Energy
-% E_GM=Efunc(GM.dq1,GM.dq2,GM.dq3,g,l1,l2,l3,m1,m2,m3,GM.q1,GM.q2,GM.q3);
-% 
-% 
-% ER_GM=(E_GM-E_GM(1))/E_GM(1);
-% 
-% %%
-% figure
-% hold on; grid on
-% % plot(timeSpan,ER_IM,'r-')
-% % plot(timeSpan,ER_AM,'g-')
-% % plot(timeSpan,ER_EM,'b-')
-% plot(timeSpan,E_GM,'k-')
-% legend('GM')
-% xlabel('time(s)')
-% title('Mechanical Energy Error')
+
 % 
 figure
 hold on; grid on
