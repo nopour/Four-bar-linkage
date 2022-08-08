@@ -43,6 +43,7 @@ In the study of mechanisms, a four-bar linkage, also called a four-bar, is the s
 
 ![2022-08-08_09h41_58](https://user-images.githubusercontent.com/81474289/183344126-43afb969-4e95-44d3-91f9-02d13f219d85.gif)
  
+![2022-08-08_09h54_46](https://user-images.githubusercontent.com/81474289/183345383-1cbc5ab9-478f-4ab1-8d75-17ef6e04cf7a.gif)
 
 </p>
 
